@@ -91,12 +91,12 @@
     - 승수 - iSharp, LCD Test
     - 공통 - 경사로, 드래곤 커브
 - 2주차 (BFS & DFS)
-    - 2206번 - 벽 부수고 이동하기
-    - 3184번 - 양
-    - 5014번 - 스타트링크
-    - 7576번 - 토마토
-    - 14226번 - 이모티콘
-    - 14442번 - 벽 부수고 이동하기 2
+    - [2206번](https://www.acmicpc.net/problem/2206) - 벽 부수고 이동하기
+    - [3184번](https://www.acmicpc.net/problem/3184) - 양
+    - [5014번](https://www.acmicpc.net/problem/5014) - 스타트링크
+    - [7576번](https://www.acmicpc.net/problem/7576) - 토마토
+    - [14226번](https://www.acmicpc.net/problem/14226) - 이모티콘
+    - [14442번](https://www.acmicpc.net/problem/14442) - 벽 부수고 이동하기 2
 
 > 문제 출처 [2018 sw 역량테스트](https://code.plus/course/34)(총 56문제)
 
