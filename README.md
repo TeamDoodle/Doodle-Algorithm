@@ -87,7 +87,7 @@
 - 1주차 (시뮬레이션 문제)
     - 윤녕 - 주사위 굴리기, 톱니바퀴
     - 진영 - 뱀, 미네랄
-    - 동규 - 톱니바퀴2, 로봇청소기
+    - 동규 - [톱니바퀴2](https://github.com/TeamDoodle/Doodle-Algorithm/blob/master/%EC%8B%A0%EB%8F%99%EA%B7%9C/%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B42/gear2MarkDown.md), [로봇청소기](https://github.com/TeamDoodle/Doodle-Algorithm/blob/master/%EC%8B%A0%EB%8F%99%EA%B7%9C/%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/robotVacuumMarkDown.md)
     - 승수 - iSharp, LCD Test
     - 공통 - 경사로, 드래곤 커브
 - 2주차 (BFS & DFS)
