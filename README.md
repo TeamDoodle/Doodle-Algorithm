@@ -98,6 +98,14 @@
     - [14226번](https://www.acmicpc.net/problem/14226) - 이모티콘
     - [14442번](https://www.acmicpc.net/problem/14442) - 벽 부수고 이동하기 2
 
+- 3주차 (BFS & DFS 추가)
+    - [2151번](https://www.acmicpc.net/problem/2151) - 거울 설치
+    - [2234번](https://www.acmicpc.net/problem/2234) - 성곽
+    - [3197번](https://www.acmicpc.net/problem/3197) - 백조의 호수
+    - [12906번](https://www.acmicpc.net/problem/12906) - 새로운 하노이 탑
+    - [14395번](https://www.acmicpc.net/problem/14395) - 4연산
+    - [16137번](https://www.acmicpc.net/problem/16137) - 견우와 직녀
+
 > 문제 출처 [2018 sw 역량테스트](https://code.plus/course/34)(총 56문제)
 
 ---
