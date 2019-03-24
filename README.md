@@ -51,9 +51,9 @@
 ## 일정🗓
 
 1. 온라인 모임 
-- 일주일에 2번 온라인 화상 모임 진행
-- 매주 목요일 오전 10시, 일요일 오전 10시
-- 문제 풀이 방식에 대해 설명, 왜 이러한 방식으로 풀었는지
+- 일주일에 1번 온라인 화상 모임 진행
+- 매주 토요일 오전 10시
+- 문제 풀이 방식에 대해 설명, 왜 이러한 방식으로 풀었는지, 코멘트 남기기
 2. 오프라인 모임  
 - 일주일에 1번 모임
 - 매주 화요일 2시 - 5시
@@ -64,10 +64,10 @@
 
 1. 시뮬레이션 문제 풀이
 2. BFS & DFS
-3. BST (Binary search tree)
-4. 브루트 포스
+3. BST (Binary search tree) - skip
+4. Brute Force
 5. Greedy Algorithm
-6. Dynamic programming
+6. Dynamic Programming
 
 ## 프로그래밍 언어
 
